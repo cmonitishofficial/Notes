@@ -1,0 +1,2 @@
+# Notes
+Pure javascript
